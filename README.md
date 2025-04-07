@@ -57,7 +57,7 @@ This project provides a testing ground for evaluating web crawler capabilities b
 
 ```bash
 # Clone the repository
-git clone https://github.com/codeword-tech/crawler-test-site.git
+git clone https://github.com/ragzor/crawler-test-site.git
 cd crawler-test-site
 
 # Install dependencies
@@ -112,15 +112,3 @@ To learn more about Next.js, take a look at the following resources:
 -
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## About Codeword Tech
-
-This project is maintained by [Codeword Tech](https://codeword.tech), specialists in web development, SEO, and content discovery technologies. Check out our [GitHub organization](https://github.com/codeword-techorganization) for more open source projects.
-
-## Contact
-
-For questions, feedback, or support, please contact us at [info@codeword.tech](mailto:info@codeword.tech).
